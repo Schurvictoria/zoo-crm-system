@@ -1,0 +1,15 @@
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/bin/Debug/net6.0/Щур_В_О_КПО_1
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/bin/Debug/net6.0/Щур_В_О_КПО_1.deps.json
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/bin/Debug/net6.0/Щур_В_О_КПО_1.runtimeconfig.json
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/bin/Debug/net6.0/Щур_В_О_КПО_1.dll
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/bin/Debug/net6.0/Щур_В_О_КПО_1.pdb
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.csproj.AssemblyReference.cache
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.AssemblyInfoInputs.cache
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.AssemblyInfo.cs
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.csproj.CoreCompileInputs.cache
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.dll
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/refint/Щур_В_О_КПО_1.dll
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.pdb
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/Щур_В_О_КПО_1.genruntimeconfig.cache
+/Users/victoriaschur/Projects/Щур_В_О_КПО_1/obj/Debug/net6.0/ref/Щур_В_О_КПО_1.dll
